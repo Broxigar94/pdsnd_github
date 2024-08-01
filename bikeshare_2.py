@@ -135,3 +135,7 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+# Code comment 1
+
+# Code comment 2
