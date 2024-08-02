@@ -137,3 +137,5 @@ if __name__ == "__main__":
 	main()
 
 # Code comment 1: Added color to lines 121-136
+
+# Code comment 2: Improved structure
