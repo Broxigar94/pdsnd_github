@@ -19,7 +19,7 @@ washington.csv
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 ### Comment 1
-Comment 1
+Comment 1: Improve spacing
 
 ### Comment 2
-Comment 2
+Comment 2: Added comment 2
