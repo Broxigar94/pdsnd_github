@@ -21,3 +21,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ### Comment 1
 Comment 1: Improve spacing
 
+### Comment 2
+Comment 2: Added lines 24 and 25 on README.md
